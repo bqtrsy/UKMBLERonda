@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "89437287621",
+    "firebase_url": "https://ukmronda.firebaseio.com",
+    "project_id": "ukmronda",
+    "storage_bucket": "ukmronda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89437287621:android:54b72c9f19097cee8eecac",
+        "android_client_info": {
+          "package_name": "com.example.ukmbleronda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89437287621-abcdef1234567890.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEJWQhLD7DSIooHAYTHGvu9ELsr-FKXKw"
+        }
+      ],
+      "services": {
+        "firebase_storage": {
+          "bucket": "ukmronda.appspot.com"
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
